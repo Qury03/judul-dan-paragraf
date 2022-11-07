@@ -1,6 +1,6 @@
 <!-- judul-dan-paragraf -->
-<title>Judul dan Paragraf</title>
 
+<title>Judul dan Paragraf</title>
 <h1>Selamat Datang di Informatika SiberMu</h1>
 <h2>Tentang HTML</h2>
 <p>HTML merupakan singkatan dari HyperText Markup Language</p>
